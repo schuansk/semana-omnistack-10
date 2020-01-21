@@ -1,0 +1,2 @@
+yarn create react-app web
+yarn add cors
